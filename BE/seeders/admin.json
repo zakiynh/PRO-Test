@@ -1,0 +1,20 @@
+[
+  {
+    "fullName": "Admin User",
+    "dob": "1990-01-01",
+    "gender": "male",
+    "email": "admin@example.com",
+    "password": "adminpassword",
+    "registDate": "2023-10-01",
+    "role": "admin"
+  },
+  {
+    "fullName": "Admin User 2",
+    "dob": "1990-01-01",
+    "gender": "female",
+    "email": "admin2@example.com",
+    "password": "adminpassword",
+    "registDate": "2023-10-01",
+    "role": "admin"
+  }
+]
